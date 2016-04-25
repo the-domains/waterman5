@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Waterman5 Inc.]]></title>
+        <description><![CDATA[Waterman5 Inc.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Apr 2016 01:52:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Courses]]></title>
+            <description><![CDATA[<p>National Lifeguard Waterfront. June 5-7, 2016  </p>]]></description>
+            <link>undefinedcourses/index.html</link>
+            <guid isPermaLink="false">6b8b5e33-8544-41ce-98b4-3a9a3c0cf7c6</guid>
+            <pubDate>Mon, 25 Apr 2016 01:52:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
