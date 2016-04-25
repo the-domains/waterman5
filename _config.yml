@@ -1,0 +1,28 @@
+name: Waterman5
+favicon: null
+layout_spectrum: 0.1729004611261189
+typography_spectrum: 0.5702486436348408
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.40637038252316415
+  lightness: 0.7701916983351111
+  saturation: 0.5902249393984675
+  rhythmicContrast: 0.6974942123051733
+purpose: []
